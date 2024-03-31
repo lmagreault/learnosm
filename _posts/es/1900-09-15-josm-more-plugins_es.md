@@ -9,7 +9,6 @@ category: josm
 Complementos de JOSM Building Tools y Utilsplugin2
 ============
 
-> Revisado 2016-09-12  
 
 Los complementos **buildings_tools** y **utilsplugin2** añaden a JOSM gran funcionalidad adicional. En esta sección veremos más de cerca las funciones que proporcionan.  
 
@@ -26,6 +25,8 @@ Una vez que el complemento ha sido instalado verás un nuevo botón en el lado i
 
 Inicia JOSM y descarga un área donde quieras trazar edificios.  
 
+### Edificios rectangulares
+
 * Selecciona la herramienta de edificios y haz clic dos veces para dibujar una línea en el mapa.  
 
 ![Draw edge][]
@@ -35,6 +36,12 @@ Inicia JOSM y descarga un área donde quieras trazar edificios.
 ![Extend building][]
 
 * De esta forma no sólo crearás un rectángulo en tres clic, sino que además se aplicarán automáticamente la etiqueta **building=yes** a la forma.  
+
+### Edificios circulares
+
+* En "Más herramientas"->"Modos de dibujar edificios" selecciona "Establecer la forma del edificio como círculo" o utiliza el atajo de teclado ALT+Z (cuando vuelvas a dibujar edificios rectangulares utiliza ALT+R). A continuación, dibuje el diámetro del edificio.
+
+![Edificio redondo][]
 
 ### Edificios complejos
 
@@ -119,4 +126,5 @@ Una de nuestras herramientas de selección favoritas es **Deseleccionar nodos:**
 [Replace geometry]: /images/josm/utilsplugin2-replace-geometry_es.png
 [Selection menu]: /images/josm/selection-menu_es.png
 [Unselect nodes]: /images/josm/utilsplugin2-unselect-nodes.png
+[Edificio redondo]: /images/josm/buildings_tools-round.png
 
