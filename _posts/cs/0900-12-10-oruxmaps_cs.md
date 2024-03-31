@@ -4,6 +4,7 @@ title: OruxMaps
 permalink: /cs/mobile-mapping/oruxmaps/
 lang: cs
 category: mobile-mapping
+navigation: skip
 ---
 
 OruxMaps

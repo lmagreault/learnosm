@@ -4,6 +4,7 @@ title: OruxMaps
 permalink: /vi/mobile-mapping/oruxmaps/
 lang: vi
 category: mobile-mapping
+navigation: skip
 ---
 
 OruxMaps
